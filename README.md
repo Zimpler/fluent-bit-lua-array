@@ -1,4 +1,4 @@
-# fluent-bit-lua-array
+# fluent-bit demo: broken array output for lua filter
 
 Lua returns broken output if given an array with a null key in it.
 
